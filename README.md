@@ -129,15 +129,7 @@ Aspiring Software Engineer | Full Stack Developer | MERN Stack Enthusiast 🚀
 
 ---
 
-# 🚀 Projects
 
-- 🩺 Doctor and Patient Management System
-- 🌍 Travel Website
-- 💼 Portfolio Website
-- 📚 DSA Practice Repository
-- 🛒 E-Commerce Clothing Website
-
----
 
 # 📫 Contact Me
 
